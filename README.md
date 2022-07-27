@@ -1,3 +1,5 @@
+This was created for the learning purpose. It is a Tic-tac-toe game build to understand basics of React including elements, components, props, and state with the help of Intro to React tutorial.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
